@@ -1,4 +1,5 @@
 # OrthoShapeLab
+![PyPI](https://img.shields.io/pypi/v/orthoshapelab)
 
 **OrthoShapeLab** is an interactive toolkit for **3D Statistical Shape Modeling (SSM)** and visualization of anatomical shape variation.
 
