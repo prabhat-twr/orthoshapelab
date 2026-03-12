@@ -43,20 +43,20 @@ Install using pip:
 
 ```bash
 pip install orthoshapelab
-
+```
 ## Install from source
 ```bash
 git clone https://github.com/prabhat-twr/orthoshapelab.git
 
 cd orthoshapelab
 pip install -e .
-
+```
 ## Usage
 
 Run the application from the terminal:
 ```bash 
 orthoshapelab
-
+```
 #### After launching, select a folder containing aligned meshes.
 
 The viewer will open and allow you to:
@@ -109,7 +109,7 @@ Windows users may still attempt installation:
 
 ```bash 
 pip install orthoshapelab
-
+```
 
 If problems occur, running the software on **Ubuntu Linux is recommended**.
 
