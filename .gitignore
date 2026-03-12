@@ -1,0 +1,5 @@
+# build files
+orthoshapelab.egg-info/
+dist/
+
+orthoshapelab/__pycache__/
